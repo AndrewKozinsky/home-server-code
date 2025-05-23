@@ -1,5 +1,3 @@
-version: "3"
-
 services:
   db_node_domain:
     image: mysql:5.7
